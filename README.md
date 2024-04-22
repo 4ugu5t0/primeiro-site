@@ -3,6 +3,8 @@ TRABALHO DE WEB 1
 
 # Tecnologias
 - Aplicação em React
+   - JS
+   - CSS
 - API do ViaCEP: https://viacep.com.br/
 - Axios: Uma biblioteca para fazer solicitações HTTP.
 
