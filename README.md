@@ -24,7 +24,9 @@ Clone o repositório para sua máquina local:
 git clone https://github.com/4ugu5t0/primeiro-site.git
 
 Instalar as dependências do projeto com:
- npm install
+
+```npm install```
 
 Iniciar o projeto com:
- npm start
+
+```npm start```
